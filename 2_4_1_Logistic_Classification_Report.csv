@@ -1,0 +1,54 @@
+,precision,recall,f1-score,support
+Albert Einstein,1.0,1.0,1.0,5.0
+Alexandre Dumas fils,0.0,0.0,0.0,0.0
+Alfred Tennyson,0.0,0.0,0.0,1.0
+Allen Saunders,0.0,0.0,0.0,0.0
+André Gide,0.0,0.0,0.0,0.0
+Ayn Rand,0.0,0.0,0.0,0.0
+Bob Marley,0.0,0.0,0.0,0.0
+C.S. Lewis,0.0,0.0,0.0,0.0
+Charles Bukowski,0.0,0.0,0.0,0.0
+Charles M. Schulz,0.0,0.0,0.0,0.0
+Douglas Adams,0.0,0.0,0.0,0.0
+Dr. Seuss,1.0,1.0,1.0,2.0
+E.E. Cummings,0.0,0.0,0.0,0.0
+Eleanor Roosevelt,0.0,0.0,0.0,0.0
+Elie Wiesel,0.0,0.0,0.0,0.0
+Ernest Hemingway,0.0,0.0,0.0,0.0
+Friedrich Nietzsche,0.0,0.0,0.0,0.0
+Garrison Keillor,0.0,0.0,0.0,0.0
+George Bernard Shaw,0.0,0.0,0.0,0.0
+George Carlin,0.0,0.0,0.0,0.0
+George Eliot,0.0,0.0,0.0,1.0
+George R.R. Martin,0.0,0.0,0.0,0.0
+Harper Lee,0.0,0.0,0.0,0.0
+Haruki Murakami,0.0,0.0,0.0,0.0
+Helen Keller,0.0,0.0,0.0,0.0
+J.D. Salinger,0.0,0.0,0.0,0.0
+J.K. Rowling,1.0,1.0,1.0,2.0
+J.M. Barrie,0.0,0.0,0.0,0.0
+J.R.R. Tolkien,0.0,0.0,0.0,0.0
+James Baldwin,0.0,0.0,0.0,0.0
+Jane Austen,1.0,1.0,1.0,1.0
+Jim Henson,0.0,0.0,0.0,0.0
+Jimi Hendrix,0.0,0.0,0.0,0.0
+John Lennon,0.0,0.0,0.0,1.0
+Jorge Luis Borges,0.0,0.0,0.0,0.0
+Khaled Hosseini,0.0,0.0,0.0,0.0
+Madeleine L'Engle,0.0,0.0,0.0,0.0
+Marilyn Monroe,1.0,1.0,1.0,3.0
+Mark Twain,1.0,1.0,1.0,1.0
+Martin Luther King Jr.,0.0,0.0,0.0,0.0
+Mother Teresa,0.0,0.0,0.0,2.0
+Pablo Neruda,0.0,0.0,0.0,0.0
+Ralph Waldo Emerson,0.0,0.0,0.0,0.0
+Stephenie Meyer,0.0,0.0,0.0,0.0
+Steve Martin,0.0,0.0,0.0,0.0
+Suzanne Collins,0.0,0.0,0.0,0.0
+Terry Pratchett,0.0,0.0,0.0,0.0
+Thomas A. Edison,0.0,0.0,0.0,0.0
+W.C. Fields,0.0,0.0,0.0,1.0
+William Nicholson,0.0,0.0,0.0,0.0
+accuracy,0.7,0.7,0.7,0.7
+macro avg,0.12,0.12,0.12,20.0
+weighted avg,0.7,0.7,0.7,20.0

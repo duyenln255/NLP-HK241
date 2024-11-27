@@ -1,0 +1,19 @@
+,precision,recall,f1-score,support
+Albert Einstein,1.0,1.0,1.0,5.0
+Alexandre Dumas fils,0.0,0.0,0.0,0.0
+Alfred Tennyson,0.0,0.0,0.0,1.0
+André Gide,0.0,0.0,0.0,0.0
+Dr. Seuss,0.6666666666666666,1.0,0.8,2.0
+E.E. Cummings,0.0,0.0,0.0,0.0
+George Eliot,0.0,0.0,0.0,1.0
+J.K. Rowling,1.0,1.0,1.0,2.0
+Jane Austen,1.0,1.0,1.0,1.0
+John Lennon,0.0,0.0,0.0,1.0
+Marilyn Monroe,1.0,1.0,1.0,3.0
+Mark Twain,1.0,1.0,1.0,1.0
+Mother Teresa,0.0,0.0,0.0,2.0
+Terry Pratchett,0.0,0.0,0.0,0.0
+W.C. Fields,0.0,0.0,0.0,1.0
+accuracy,0.7,0.7,0.7,0.7
+macro avg,0.3777777777777777,0.4,0.38666666666666666,20.0
+weighted avg,0.6666666666666666,0.7,0.6799999999999999,20.0
